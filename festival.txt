@@ -1,1 +1,99 @@
-test
+= Commun – Trajet Entrées
+
+* [ ] Guide / cartes
+* [ ] Passes
+* [ ] GPS
+* [ ] Eau en bouteilles
+
+= Commun – Camping
+
+* [ ] Tente
+* [ ] Maillet
+* [ ] Duvets
+* [ ] Couvertures
+* [ ] Mattelas
+* [ ] Oreillers
+* [ ] Boules Quies
+* [ ] Tonnelle
+* [ ] Scotch
+* [ ] Table
+* [ ] Chaises
+* [ ] Fauteuils
+* [ ] Sacs poubelle
+* [ ] Glacières
+* [ ] Tire bouchon
+* [ ] Décapsuleur
+* [ ] Diable assimilé
+* [ ] Ficelle bleue
+* [ ] Bougies
+* [ ] Allumettes
+* [ ] Sacs à dos
+* [ ] Mölkky
+* [ ] Photophores
+* [ ] Musique
+* [ ] Powerbanks
+* [ ] Lampe
+* [ ] Shooters
+* [ ] PQ
+* [ ] Essuie tout
+* [ ] Lingettes cul
+
+= Commun – Bouffe Picole
+
+* [ ] Schrubb
+* [ ] Shooters
+* [ ] Bières
+* [ ] Bouffe trajet
+
+= Communs – médicaments
+
+* [ ] Anti chiasse
+* [ ] Anti douleurs
+* [ ] Pansements
+* [ ] Désinfectants
+* [ ] Labello
+* [ ] Pansements ampoules
+
+= Loïc
+
+* [ ] Passeport
+* [ ] Carte d'identité
+* [ ] Protections auditives
+* [ ] Casquette
+* [ ] Lunettes
+* [ ] Maillots de bain
+* [ ] Chaussures
+* [ ] Bottes
+* [ ] Cape de pluie
+* [ ] Fringues
+* [ ] Serviette
+* [ ] Sac à Viande
+* [ ] Gel douche
+* [ ] Brosse à dents / Dentifrice
+* [ ] Lunettes soleil
+
+= Charlotte
+
+* [ ] Bottes
+* [ ] Casquette
+* [ ] Serviette
+* [ ] Passeport
+* [ ] Cape de pluie
+* [ ] Protections auditives
+* [ ] Fringues
+* [ ] Maillot de bain
+* [ ] Lunettes soleil
+* [ ] Chaussures
+* [ ] Tongs
+* [ ] Manteau Chaud
+* [ ] Gel douche / shampooing
+* [ ] Brosse à dents / Dentifrice
+* [ ] Elastiques
+* [ ] Serviettes hygiéniques
+
+= Pour quoi faire
+
+* [ ] Gourde
+* [ ] Entonnoir
+* [ ] Thermos
+* [ ] Lessive Main
