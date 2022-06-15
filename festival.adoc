@@ -5,6 +5,7 @@
 
 = Voiture / Trajet
 
+* [ ] Vignette Autoroute
 * [ ] Guide / cartes
 * [ ] Eau en bouteilles
 * [ ] Bouffe trajet
