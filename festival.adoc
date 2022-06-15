@@ -1,58 +1,78 @@
-= Commun – Trajet Entrées
+= Commun – Passes
+
+* [ ] Pass entrée x 2 (imprimé)
+* [ ] Pass camping (imprimé)
+
+= Voiture / Trajet
 
 * [ ] Guide / cartes
-* [ ] Passes
-* [ ] GPS
 * [ ] Eau en bouteilles
+* [ ] Bouffe trajet
+* [ ] Bonbons
 
-= Commun – Camping
+= Camping - Couchage
 
 * [ ] Tente
 * [ ] Maillet
 * [ ] Duvets
 * [ ] Couvertures
-* [ ] Mattelas
+* [ ] Matelas
 * [ ] Oreillers
 * [ ] Boules Quies
+
+= Camping - Installation
+
 * [ ] Tonnelle
-* [ ] Scotch
 * [ ] Table
-* [ ] Chaises
-* [ ] Fauteuils
+* [ ] Chaises / Fauteuils
 * [ ] Sacs poubelle
 * [ ] Glacières
 * [ ] Tire bouchon
 * [ ] Décapsuleur
-* [ ] Diable assimilé
-* [ ] Ficelle bleue
+* [ ] Enceinte
+* [ ] Powerbanks
+* [ ] Mölkky
+
+= Camping - Eclairage
+
+* [ ] Photophores
 * [ ] Bougies
 * [ ] Allumettes
-* [ ] Sacs à dos
-* [ ] Mölkky
-* [ ] Photophores
-* [ ] Musique
-* [ ] Powerbanks
-* [ ] Lampe
-* [ ] Shooters
+* [ ] Lampes
+
+= Camping - Hygiène
+
 * [ ] PQ
-* [ ] Essuie tout
 * [ ] Lingettes cul
+* [ ] Gel Hydroalcoolique
+* [ ] Essuie tout
 
-= Commun – Bouffe Picole
+= Camping - Divers
 
+* [ ] Scotch
+* [ ] Diable assimilé
+* [ ] Ficelle bleue
+* [ ] Sacs à dos
+
+= Y'a bon
+
+* [ ] Bières
+* [ ] Punch
+* [ ] Gobelets
 * [ ] Schrubb
 * [ ] Shooters
-* [ ] Bières
-* [ ] Bouffe trajet
 
-= Communs – médicaments
+= Pharmacie
 
 * [ ] Anti chiasse
-* [ ] Anti douleurs
+* [ ] Antalgique
+* [ ] Spasfon
 * [ ] Pansements
+* [ ] Pansements ampoules
 * [ ] Désinfectants
 * [ ] Labello
-* [ ] Pansements ampoules
+* [ ] Crème solaire
+* [ ] Aloé Vera
 
 = Loïc
 
@@ -91,7 +111,7 @@
 * [ ] Elastiques
 * [ ] Serviettes hygiéniques
 
-= Pour quoi faire
+= Pour quoi faire ???
 
 * [ ] Gourde
 * [ ] Entonnoir
