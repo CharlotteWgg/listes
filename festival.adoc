@@ -38,7 +38,7 @@
 * [ ] Photophores
 * [ ] Bougies
 * [ ] Allumettes
-* [ ] Lampes
+* [ ] Lampes (+ piles)
 
 = Camping - Hygiène
 
