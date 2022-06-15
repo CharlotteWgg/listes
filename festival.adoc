@@ -1,9 +1,9 @@
 = Commun – Trajet Entrées
 
-[ ] Guide / cartes
-[ ] Passes
-[ ] GPS
-[ ] Eau en bouteilles
+* [ ] Guide / cartes
+* [ ] Passes
+* [ ] GPS
+* [ ] Eau en bouteilles
 
 = Commun – Camping
 
