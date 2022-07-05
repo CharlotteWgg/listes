@@ -18,6 +18,7 @@
 * [ ] Duvets
 * [ ] Couvertures
 * [ ] Matelas
+* [ ] Gonfleur
 * [ ] Oreillers
 * [ ] Boules Quies
 
