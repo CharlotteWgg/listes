@@ -71,7 +71,7 @@
 = Pharmacie
 
 * [ ] Anti chiasse
-* [ ] Antalgique
+* [ ] Antalgique (paracétamol / ibuprofène)
 * [ ] Spasfon
 * [ ] Pansements
 * [ ] Pansements ampoules
@@ -79,6 +79,7 @@
 * [ ] Labello
 * [ ] Crème solaire
 * [ ] Aloé Vera
+* [ ] Cachets Jambes Lourdes
 
 = Loïc
 
@@ -92,11 +93,13 @@
 * [ ] Bottes
 * [ ] Cape de pluie
 * [ ] Fringues
+* [ ] Fringues Chaudes (1 change)
 * [ ] Serviette
 * [ ] Sac à Viande
 * [ ] Gel douche
 * [ ] Brosse à dents / Dentifrice
 * [ ] Lunettes soleil
+* [ ] Sac À Dos
 
 = Charlotte
 
@@ -107,6 +110,7 @@
 * [ ] Cape de pluie
 * [ ] Protections auditives
 * [ ] Fringues
+* [ ] Fringues Chaudes (1 change)
 * [ ] Maillot de bain
 * [ ] Lunettes soleil
 * [ ] Chaussures
