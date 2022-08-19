@@ -21,7 +21,6 @@
 * [ ] Rustines Matelas
 * [ ] Gonfleur
 * [ ] Oreillers
-* [ ] Boules Quies
 
 = Camping - Installation
 
@@ -33,25 +32,28 @@
 * [ ] Tire bouchon
 * [ ] Décapsuleur
 * [ ] Enceinte
-* [ ] Powerbanks
 * [ ] Mölkky
 
-= Camping - Eclairage
+= Camping - Electricité
 
 * [ ] Photophores
 * [ ] Bougies
 * [ ] Allumettes
 * [ ] Lampes (+ piles)
+* [ ] Powerbanks
+* [ ] Cables USB / Lightning
 
 = Camping - Hygiène
 
 * [ ] PQ
+* [ ] Mouchoirs
 * [ ] Lingettes cul
-* [ ] Gel Hydroalcoolique
 * [ ] Essuie tout
+* [ ] Coton Tiges
 * [ ] Gants de toilette x 2
 * [ ] Pelle / Balayette
 * [ ] Eponge / Chiffon Microfibres
+* [ ] Boules Quies
 
 = Camping - Divers
 
@@ -72,6 +74,7 @@
 
 * [ ] Anti chiasse
 * [ ] Antalgique (paracétamol / ibuprofène)
+* [ ] Cachetons "Jambes Lourdes"
 * [ ] Spasfon
 * [ ] Pansements
 * [ ] Pansements ampoules
@@ -80,14 +83,19 @@
 * [ ] Crème solaire
 * [ ] Aloé Vera
 * [ ] Cachets Jambes Lourdes
+* [ ] Gel Hydroalcoolique
+* [ ] Arnica
+* [ ] Aspivenin
+* [ ] Pince à épiler / kit tiques
+* [ ] Citrate
 
 = Loïc
 
+* [ ] Téléphone Perso / Boulot
 * [ ] Passeport
 * [ ] Carte d'identité
 * [ ] Protections auditives
-* [ ] Casquette
-* [ ] Lunettes
+* [ ] Casquette / Chapeau
 * [ ] Maillots de bain
 * [ ] Chaussures
 * [ ] Bottes
@@ -103,15 +111,18 @@
 
 = Charlotte
 
+* [ ] Téléphone Perso / Boulot
 * [ ] Bottes
-* [ ] Casquette
+* [ ] Casquette / Chapeau
 * [ ] Serviette
 * [ ] Passeport
+* [ ] Carte d'identité
 * [ ] Cape de pluie
 * [ ] Protections auditives
 * [ ] Fringues
 * [ ] Fringues Chaudes (1 change)
 * [ ] Maillot de bain
+* [ ] Lunettes
 * [ ] Lunettes soleil
 * [ ] Chaussures
 * [ ] Tongs
