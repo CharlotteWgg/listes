@@ -1,38 +1,38 @@
 = Commun – Passes
 
-* [ ] Pass entrée x 2 (imprimé)
 * [ ] Pass camping (imprimé)
+* [ ] Pass entrée x 2 (imprimé)
 
 = Voiture / Trajet
 
-* [ ] Vignette Autoroute
-* [ ] Guide / cartes
-* [ ] Eau en bouteilles
-* [ ] Bouffe trajet
 * [ ] Bonbons
+* [ ] Bouffe trajet
+* [ ] Cartes / Guide
+* [ ] Eau en bouteilles
+* [ ] Vignette Autoroute
 
 = Camping - Couchage
 
-* [ ] Tente
-* [ ] Maillet
-* [ ] Duvets
 * [ ] Couvertures
-* [ ] Matelas
-* [ ] Rustines Matelas
+* [ ] Duvets
 * [ ] Gonfleur
+* [ ] Maillet
+* [ ] Matelas
 * [ ] Oreillers
+* [ ] Rustines Matelas
+* [ ] Tente
 
 = Camping - Installation
 
-* [ ] Tonnelle
-* [ ] Table
 * [ ] Chaises / Fauteuils
-* [ ] Sacs poubelle
-* [ ] Glacières
-* [ ] Tire bouchon
 * [ ] Décapsuleur
 * [ ] Enceinte
+* [ ] Glacières
 * [ ] Mölkky
+* [ ] Sacs poubelle
+* [ ] Table
+* [ ] Tire bouchon
+* [ ] Tonnelle
 
 = Camping - Electricité
 
