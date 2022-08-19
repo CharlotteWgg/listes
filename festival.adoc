@@ -36,105 +36,106 @@
 
 = Camping - Electricité
 
-* [ ] Photophores
-* [ ] Bougies
 * [ ] Allumettes
-* [ ] Lampes (+ piles)
-* [ ] Powerbanks
+* [ ] Bougies
 * [ ] Cables USB / Lightning
+* [ ] Lampes (+ piles)
+* [ ] Photophores
+* [ ] Powerbanks
 
 = Camping - Hygiène
 
-* [ ] PQ
-* [ ] Mouchoirs
-* [ ] Lingettes cul
-* [ ] Essuie tout
-* [ ] Coton Tiges
-* [ ] Gants de toilette x 2
-* [ ] Pelle / Balayette
-* [ ] Eponge / Chiffon Microfibres
 * [ ] Boules Quies
+* [ ] Coton Tiges
+* [ ] Eponge / Chiffon Microfibres
+* [ ] Essuie tout
+* [ ] Gants de toilette x 2
+* [ ] Lingettes cul
+* [ ] Mouchoirs
+* [ ] Pelle / Balayette
+* [ ] PQ
 
 = Camping - Divers
 
-* [ ] Scotch
 * [ ] Diable assimilé
 * [ ] Ficelle bleue
 * [ ] Sacs à dos
+* [ ] Scotch
 
 = Y'a bon
 
 * [ ] Bières
-* [ ] Punch
 * [ ] Gobelets
+* [ ] Punch
 * [ ] Schrubb
 * [ ] Shooters
 
 = Pharmacie
 
-* [ ] Anti chiasse
-* [ ] Antalgique (paracétamol / ibuprofène)
-* [ ] Cachetons "Jambes Lourdes"
-* [ ] Spasfon
-* [ ] Pansements
-* [ ] Pansements ampoules
-* [ ] Désinfectants
-* [ ] Labello
-* [ ] Crème solaire
 * [ ] Aloé Vera
-* [ ] Cachets Jambes Lourdes
-* [ ] Gel Hydroalcoolique
+* [ ] Antalgique (paracétamol / ibuprofène)
+* [ ] Anti chiasse
 * [ ] Arnica
 * [ ] Aspivenin
-* [ ] Pince à épiler / kit tiques
+* [ ] Cachetons "Jambes Lourdes"
+* [ ] Cachets Jambes Lourdes
 * [ ] Citrate
+* [ ] Crème solaire
+* [ ] Désinfectants
+* [ ] Gel Hydroalcoolique
+* [ ] Labello
+* [ ] Pansements
+* [ ] Pansements ampoules
+* [ ] Pince à épiler / kit tiques
+* [ ] Spasfon
 
 = Loïc
 
-* [ ] Téléphone Perso / Boulot
-* [ ] Passeport
-* [ ] Carte d'identité
-* [ ] Protections auditives
-* [ ] Casquette / Chapeau
-* [ ] Maillots de bain
-* [ ] Chaussures
 * [ ] Bottes
+* [ ] Brosse à dents / Dentifrice
 * [ ] Cape de pluie
+* [ ] Carte d'identité
+* [ ] Casquette / Chapeau
+* [ ] Chaussures
 * [ ] Fringues
 * [ ] Fringues Chaudes (1 change)
-* [ ] Serviette
-* [ ] Sac à Viande
 * [ ] Gel douche
-* [ ] Brosse à dents / Dentifrice
 * [ ] Lunettes soleil
+* [ ] Maillots de bain
+* [ ] Passeport
+* [ ] Protections auditives
 * [ ] Sac À Dos
+* [ ] Sac à Viande
+* [ ] Serviette
+* [ ] Téléphone Perso / Boulot
+* [ ] Tongs
 
 = Charlotte
 
-* [ ] Téléphone Perso / Boulot
 * [ ] Bottes
-* [ ] Casquette / Chapeau
-* [ ] Serviette
-* [ ] Passeport
-* [ ] Carte d'identité
+* [ ] Brosse à dents / Dentifrice
 * [ ] Cape de pluie
-* [ ] Protections auditives
+* [ ] Carte d'identité
+* [ ] Casquette / Chapeau
+* [ ] Chaussures
+* [ ] Elastiques
 * [ ] Fringues
 * [ ] Fringues Chaudes (1 change)
-* [ ] Maillot de bain
+* [ ] Gel douche / shampooing
 * [ ] Lunettes
 * [ ] Lunettes soleil
-* [ ] Chaussures
-* [ ] Tongs
+* [ ] Maillot de bain
 * [ ] Manteau Chaud
-* [ ] Gel douche / shampooing
-* [ ] Brosse à dents / Dentifrice
-* [ ] Elastiques
+* [ ] Passeport
+* [ ] Protections auditives
+* [ ] Serviette
 * [ ] Serviettes hygiéniques
+* [ ] Téléphone Perso / Boulot
+* [ ] Tongs
 
 = Pour quoi faire ???
 
 * [ ] Gourde
 * [ ] Entonnoir
-* [ ] Thermos
 * [ ] Lessive Main
+* [ ] Thermos
