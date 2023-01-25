@@ -27,7 +27,9 @@
 * [ ] Poelle
 * [ ] Faitout
 * [ ] Plat gratin
-* [ ] 
+* [ ] Produit entretien sol
+* [ ] Liquide vaisselle
+* [ ] Eponges (x2)
 * [ ] 
 
 = Commun – Bouffe
