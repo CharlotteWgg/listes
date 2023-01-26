@@ -2,7 +2,7 @@
 
 * [ ] Faire les niveaux de la voiture
 * [ ] Boitier autoroute
-* [ ] 
+* [ ] Croques Monsieurs
 * [ ] 
 * [ ] 
 * [ ] 
@@ -41,6 +41,21 @@
 * [ ] Poivre
 * [ ] Oignons / Ail / Echalottes
 * [ ] 
+* [ ] 
+
+= Commun – Médocs
+
+* [ ] Paracétamol
+* [ ] Ibuprophène
+* [ ] Spasfon
+* [ ] Citrate
+* [ ] Tiorfan
+* [ ] Aloe Vera
+* [ ] Pansements
+* [ ] Désinfectant
+* [ ] Bande
+* [ ] Gaze
+* [ ] Sparadrap
 * [ ] 
 
 
