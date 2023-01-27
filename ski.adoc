@@ -18,7 +18,7 @@
 * [ ] Draps
 * [ ] Oreillers
 * [ ] Gobelets / Eco cups
-* [ ] Torchons
+* [ ] Torchons / Schroups
 * [ ] Couteaux cuisine (grand / petit)
 * [ ] Planche à découper
 * [ ] Poelle
@@ -27,6 +27,9 @@
 * [ ] Produit entretien sol
 * [ ] Liquide vaisselle
 * [ ] Eponges (x2)
+* [ ] Lessive Main
+* [ ] Rallonge
+* [ ] Jeux de société
 
 = Commun – Bouffe
 
@@ -36,6 +39,10 @@
 * [ ] Sel
 * [ ] Poivre
 * [ ] Oignons / Ail / Echalottes
+* [ ] Café Soluble
+* [ ] Thé
+* [ ] Vinaigre
+* [ ] Four à raclette
 
 = Commun – Médocs
 
@@ -56,11 +63,15 @@
 * [ ] Serviette de bain
 * [ ] Sèche-cheveux
 * [ ] Serviettes hygiéniques
+* [ ] Trousse de toilette
+* [ ] Shampoing
+* [ ] Après shampoing
+* [ ] Brosses / Peignes
 
 = Loïc – Hygiène
 
 * [ ] Serviette de bain
-* [ ] Shampooing
+* [ ] Shampoing
 * [ ] Gel Douche
 * [ ] Brosse à Dents
 * [ ] Dentifrice
@@ -91,6 +102,7 @@
 * [ ] Masque
 * [ ] Bandeau
 * [ ] Bonnet
+* [ ] Gants
 
 = Loïc – Ski
 
@@ -108,7 +120,7 @@
 * [ ] Masque
 * [ ] Bandeau
 * [ ] Bonnet
-
+* [ ] Gants
 
 
 * [ ] 
