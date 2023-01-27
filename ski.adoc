@@ -3,9 +3,6 @@
 * [ ] Faire les niveaux de la voiture
 * [ ] Boitier autoroute
 * [ ] Croques Monsieurs
-* [ ] 
-* [ ] 
-* [ ] 
 
 = Commun – Hébergement
 
@@ -30,7 +27,6 @@
 * [ ] Produit entretien sol
 * [ ] Liquide vaisselle
 * [ ] Eponges (x2)
-* [ ] 
 
 = Commun – Bouffe
 
@@ -40,8 +36,6 @@
 * [ ] Sel
 * [ ] Poivre
 * [ ] Oignons / Ail / Echalottes
-* [ ] 
-* [ ] 
 
 = Commun – Médocs
 
@@ -56,18 +50,12 @@
 * [ ] Bande
 * [ ] Gaze
 * [ ] Sparadrap
-* [ ] 
-
 
 = Charlotte – Hygiène
 
 * [ ] Serviette de bain
 * [ ] Sèche-cheveux
 * [ ] Serviettes hygiéniques
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
 
 = Loïc – Hygiène
 
@@ -80,19 +68,12 @@
 * [ ] Cottons tiges
 * [ ] Tondeuse
 * [ ] Rasoir
-* [ ] 
-* [ ] 
-* [ ] 
 
 = Commun – Ski
 
 * [ ] Barres Grany
 * [ ] Sacs à dos (x2)
 * [ ] Poches à eau ?
-* [ ] 
-* [ ] 
-* [ ] 
-
 
 = Charlotte – Ski
 
@@ -110,8 +91,6 @@
 * [ ] Masque
 * [ ] Bandeau
 * [ ] Bonnet
-* [ ] 
-* [ ] 
 
 = Loïc – Ski
 
@@ -129,6 +108,7 @@
 * [ ] Masque
 * [ ] Bandeau
 * [ ] Bonnet
-* [ ] 
-* [ ] 
+
+
+
 * [ ] 
