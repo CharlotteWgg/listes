@@ -30,6 +30,7 @@
 * [ ] Lessive Main
 * [ ] Rallonge
 * [ ] Jeux de société
+* [ ] Mouchoirs
 
 = Commun – Bouffe
 
@@ -84,7 +85,8 @@
 
 * [ ] Barres Grany
 * [ ] Sacs à dos (x2)
-* [ ] Poches à eau ?
+* [ ] Poches à eau
+* [ ] Mouchoirs
 
 = Charlotte – Ski
 
@@ -103,6 +105,14 @@
 * [ ] Bandeau
 * [ ] Bonnet
 * [ ] Gants
+* [ ] Semelles Chaussures
+* [ ] Mouchoirs
+
+= Loïc Fringues
+
+* [ ] Fringues
+* [ ] Chaussures
+* [ ] Maillot de Bain
 
 = Loïc – Ski
 
@@ -116,11 +126,20 @@
 * [ ] Chaussettes techniques
 * [ ] Boxers techniques
 * [ ] T-Shirts techniques
+* [ ] T-Shirts manches longues
 * [ ] Lunettes soleil
 * [ ] Masque
 * [ ] Bandeau
 * [ ] Bonnet
 * [ ] Gants
 
+= Loïc Fringues
 
-* [ ] 
+* [ ] Claquettes
+* [ ] Pantalons (x2)
+* [ ] T-Shirts (x7)
+* [ ] Boxers (x7)
+* [ ] Chaussettes (x7)
+* [ ] Pantacourts (x2)
+* [ ] Sweatshirt Zip (x2)
+* [ ] Maillot de Bain
